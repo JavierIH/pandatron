@@ -1,5 +1,9 @@
-# pandatron
+# Pandatron
 Line following robot
+
+<p align="center">
+<img src=doc/pandatron.jpeg width="600" align="center">
+</p>
 
 # BOM
 
@@ -21,3 +25,8 @@ Line following robot
 | C7, C8            	| 603       	| 20p           	|
 | C11, C13          	| 603       	| 0.1uF         	|
 | C12, C14          	| 1206_     	| 10uF          	|
+
+# License
+Hardware: CC-BY-SA
+
+Software: GPLv3
