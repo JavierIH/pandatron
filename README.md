@@ -27,17 +27,20 @@ Line following robot
 | C7, C8                | 603           | 20p               |                       |
 | C11, C13              | 603           | 0.1uF             |                       |
 | C12, C14              | 1206          | 10uF              |                       |
+| Female pin header     | 2.54          | 01x08             |                       |
 
 ## Other hardware
 
 This parts can be modified by constructor choice.
 
 | Component             | Brand and model               |
-|-------------------    |-----------                    |
+|-------------------    |---------------------------    |
 | Motors                | Pololu 10:1                   |
 | Battery               | Turnigy Nano-Tech 320mAh 2s   |
 | Voltage regulator	    | XP Power TR05S3V3             |
 | Wheels                | Scaleauto ProComp             |
+
+You will need too a ST-Link V2 programmer (or compatible)
 
 # License
 Hardware: CC-BY-SA
