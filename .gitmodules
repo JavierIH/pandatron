@@ -1,0 +1,9 @@
+[submodule "pandatron_sw"]
+	path = pandatron_sw
+	url = https://github.com/JavierIH/pandatron_sw
+[submodule "pandatron_hw"]
+	path = pandatron_hw
+	url = https://github.com/JavierIH/pandatron_hw
+[submodule "pandatron_3d"]
+	path = pandatron_3d
+	url = https://github.com/JavierIH/pandatron_3d
