@@ -11,10 +11,13 @@ Line following robot
 
 | Label                 | Package       | Value             | Comments              |
 |-------------------    |-----------    |---------------    | ------------------    |
+| U1                    | SIP 3T        | TR05S3V3          |                       |
+| U2                    | SSOP24-P      | TB6612FNG         |                       |
 | U3                    | LQFP-48       | STM32F103C8T6     | https://goo.gl/DWbec2 |
 | U4-11                 | QRE1113GR     | QRE1113           | https://goo.gl/W69LTh |
 | Y2                    | HC-49s        | 8MHz              |                       |
 | SW1, SW4              | SKQG          | SPST              | https://goo.gl/RqLESx |
+| LED / POWER           | 603           | Green / Red       |                       |
 | R1, R2                | 603           | 100Ω              |                       |
 | R6, R8                | 603           | 10kΩ              |                       |
 | R9, R10               | 603           | 100kΩ             |                       |
